@@ -50,7 +50,7 @@ At 7 a.m. local time on November 18, still at the same location, Starship was la
 
 Musk and his younger brother Kimbar Musk watched the whole process of the Starship launch together at the scene.
 
-![](https://cdn.jsdelivr.net/gh/Mu1sezz/Picture@img/img/20231123194157.png)
+![](https://s2.loli.net/2023/12/11/Cjaw4D3qg9sXfAT.png)
 
 Judging from the live broadcast footage, until 3 minutes and 22 seconds ago, it was still in normal lift-off, and even successfully completed the separation of the rocket and thruster; But at this moment, the thruster suddenly exploded in the air, and the picture was a little shocking.
 
