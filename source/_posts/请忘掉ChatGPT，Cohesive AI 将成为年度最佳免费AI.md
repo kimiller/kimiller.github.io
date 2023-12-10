@@ -1,4 +1,4 @@
----
+、--
 title: 请忘掉ChatGPT，Cohesive AI 将成为年度最佳免费AI
 date: 2023-08-02 21:29:51
 categories:
@@ -23,7 +23,7 @@ cover: https://s2.loli.net/2023/08/02/mT8jprieJVPxSzR.jpg
 
 **[Cohesive AI](https://cohesive.so/?fpr=aifastcash)** 配备了市场上最强大的 AI 编辑器，为制作卓越内容提供了绝佳的机会。最好的部分？完全免费！当您登陆主页时，您会看到一个聊天框，这表明该工具的用户友好性--简单易上手。
 
-![](https://s2.loli.net/2023/08/02/sqdlQFVRL9wjbYc.jpg)
+![](https://s2.loli.net/2023/12/11/Cjaw4D3qg9sXfAT.png)
 
 与 ChatGPT 等其他平台的流程有时令人困惑不同，Cohesive AI 会提供帮助并简化内容创建。
 
