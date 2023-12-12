@@ -1,5 +1,5 @@
 ---
-title: Bitcoin fell by $3,000 in 1 hour: "Normal Retracement" or "End of Bull Market"
+title: Bitcoin fell by $3,000 in 1 hour: Normal Retracement or End of Bull Market
 date: 2023-12-12 16:48:12
 categories:
   - BTC
