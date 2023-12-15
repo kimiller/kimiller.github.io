@@ -1,5 +1,5 @@
 ---
-title: "Microsoft's Clipchamp Introduces New Features: AI Auto-Creation and AI Text-to-Speech"
+title: "Microsoft's Clipchamp Introduces New Features: AI Auto-Creation and AI Text-to-Speech!"
 date: 2023-12-15
 categories:
   -AI News
