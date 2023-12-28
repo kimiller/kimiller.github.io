@@ -224,7 +224,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: Welcome to Snow's channel on Artificial Intelligence and Technology!！
+    description: Welcome to Snow's channel on Artificial Intelligence and Technology!
     button:
       enable: true
       icon: fab fa-github
