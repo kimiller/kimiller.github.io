@@ -3,22 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Snow的博客
-subtitle: 激发思考、启迪灵感、促进创新
-description: 欢迎来到Snow的博客！这里是一个关于人工智能、虚拟现实、技术、科学、文化、互联网、经济、社会。我们的博客致力于为读者提供高质量、有趣、有启发性的内容。
+title: Snow's Blog
+subtitle: Stimulate Thought, Inspire Ideas, Foster Innovation
+description: Welcome to Snow's Blog! This is a space dedicated to topics ranging from artificial intelligence,
+virtual reality, technology, science, culture, the internet, economy, to society. Our blog is committed to providing readers with high-quality, interesting, and inspirational content.
+Thank you for visiting Snow's Blog!
 keywords:
-  - 人工智能
-  - 虚拟现实
-  - 技术
-  - 科学
-  - 文化
-  - 互联网
-  - 经济
-  - 社会
-  - 网赚
-author: Muse
+  - Artificial Intelligence
+  - Virtual Reality
+  - Technology
+  - Science
+  - Culture
+  - Internet
+  - Economy
+  - Society
+author: Snow
 language: en
-timezone: Asia/Hong_Kong
+timezone: America/New_York
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
