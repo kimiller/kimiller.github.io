@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Bing Introduces GPT-4 Turbo Model for Enhanced Chat Experience
+title: "Microsoft Bing Introduces GPT-4 Turbo Model for Enhanced Chat Experience"
 date: 2023-12-28
 categories:
   -AI News
