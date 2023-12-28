@@ -7,7 +7,7 @@ categories:
 tags:
   - Microsoft Copilot
   - AI
-cover: https://s2.loli.net/2023/08/02/igMT6xhwFOcAPrm.webp
+cover: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1694819737792.png
 ---
 
 Recently, Microsoft announced that its Copilot chatbot will roll out a new feature in January next year, allowing users to pin chat conversations. This new feature aims to provide users with a more convenient way to manage their chats, enhancing their overall workflow.
