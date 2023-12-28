@@ -9,7 +9,7 @@ Hi, I'm Snow. i'm a quantitative trader and management consultant with a passion
 
 ## My Experience
 
-I have extensive experience in Hong Kong stocks, virtual coin trading and the application of new AI tools. During this time, I have learned a lot and encountered many challenges. But it is these experiences that have allowed me to grow and shape my personality and values.
+I have extensive experience, virtual coin trading and the application of new AI tools. During this time, I have learned a lot and encountered many challenges. But it is these experiences that have allowed me to grow and shape my personality and values.
 
 ## My Mission
 
