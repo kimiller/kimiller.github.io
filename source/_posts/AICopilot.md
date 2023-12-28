@@ -2,7 +2,8 @@
 title: Microsoft Copilot to Introduce Pinned Chat Conversations Feature
 date: 2023-12-25 16:48:12
 categories:
-  - Microsoft Copilot to Introduce Pinned Chat Conversations Feature
+  - AI
+  - Microsoft Copilot
 tags:
   - Microsoft Copilot
   - AI
