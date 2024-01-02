@@ -1,5 +1,5 @@
 ---
-title: OpenAI's Success with ChatGPT: Milestone of $1.6 Billion Annual Revenue
+title: "OpenAI's Success with ChatGPT: Milestone of $1.6 Billion Annual Revenue"
 date: 2024-01-02
 categories:
   - AI
