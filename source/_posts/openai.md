@@ -6,7 +6,7 @@ categories:
 tags:
   - OpenAI
   - ChatGPT
-cover: https://i.ibb.co/pwGqwDQ/openai.jpg
+cover: https://s2.loli.net/2024/01/02/SXVpUdOuHRIEq5G.jpg
 ---
 ## Overview
 Recently, according to information from two insiders cited by The Information, the annualized revenue of the artificial intelligence company OpenAI has exceeded $1.6 billion. This figure represents a 20% growth within two months compared to the expected $1.3 billion in mid-October, highlighting OpenAI's strong capabilities and commercial potential in the field of artificial intelligence.
